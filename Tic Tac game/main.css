@@ -1,0 +1,52 @@
+body{
+	background-color: black;
+	 margin-top: 60px;
+	 display:block;
+}
+
+h1{
+	color:goldenrod;
+	
+}
+
+
+
+h3{
+	color:goldenrod;
+}
+
+h4{
+	color:goldenrod;
+}
+
+ol{
+	color:goldenrod;
+}
+.tile{
+	width: 80px;
+	height: 80px;
+	font-size: 60px;
+	font-family: Helvetica;
+}
+
+.gameBoard{
+	display: none;
+	color:goldenrod;
+}
+
+.center{
+	margin: 0 auto;
+	color:goldenrod;
+}
+
+#new{
+     color:goldenrod;
+}
+
+#join{
+	color:goldenrod;
+}
+
+.tile{
+	 color:goldenrod;
+}
